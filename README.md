@@ -1,2 +1,2 @@
 # ChineseNewYear2024Helper
- qwq
+Replace with your mod's readme!

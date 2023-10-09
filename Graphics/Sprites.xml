@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Sprites>
+  <ChineseNewYear2024HelperIHPHKSlash path="objects/ChineseNewYear2024Helper/IHPHKSlash/">
+    <Center/>
+    <Anim id="failed" path="failed" delay="0.03" frames="0-4" />
+    <Anim id="succeed" path="succeed" delay="0.03" frames="0-4" />
+  </ChineseNewYear2024HelperIHPHKSlash>
+  <ChineseNewYear2024BitsMagicLanternLight path="objects/ChineseNewYear2024Helper/BitsMagicLanternLight/">
+    <Center/>
+    <Anim id="light" path="light" frames="0-0" />
+    <Anim id="holdable" path="holdable" frames="0-0" />
+    <Loop id="static" delay="0.03" path="static" frames="0-6" />
+  </ChineseNewYear2024BitsMagicLanternLight>
+  <ChineseNewYear2024BitsMomentumRefill path="objects/ChineseNewYear2024Helper/BitsMomentumRefill/">
+    <Center/>
+    <Anim id="idle" path="MomentumRefill" frames="0-27" />
+    <Anim id="outline" path="Outline" frames="0-0" />
+  </ChineseNewYear2024BitsMomentumRefill>
+</Sprites>
